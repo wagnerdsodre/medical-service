@@ -2,7 +2,7 @@
 
 Rest api em conjunto com aplicativo mobile para provisionar gestão de clínica médica como a administração do profissional médico, paciente e agendamento de cunsulta;
 
-O layout do aplicativo mobile entrará no escopo desenvolvimento como também outras funcionalidades
+O layout do aplicativo mobile entrará no escopo de desenvolvimento como também outras funcionalidades
 podem ser incluídas nesse projeto.
 ---
 
